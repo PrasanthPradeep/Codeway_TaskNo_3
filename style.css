@@ -1,5 +1,4 @@
-
-		body {
+        body {
 			font-family: Arial, sans-serif;
 			margin: 0;
 			padding: 0;
@@ -69,3 +68,23 @@
             margin-top: 10px;
 			
 		}
+		.thanks{
+			margin-top: 300px;
+			text-align: center;
+		}
+		a {
+			background-color: white;
+			border-radius: 50px;
+			color:black;
+			width : 500px;
+			letter-spacing:1px;
+			padding: 1px 5px;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+
+			
+			
+			}
